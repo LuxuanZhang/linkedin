@@ -31,6 +31,12 @@ if (hashmap.containsKey(target - currentkey)) { return true; } // else return fa
 第三题： 输入是一个array stream，在任何时候call你的method，给一个input value，
 让返回之前输入过的数字有没有两个加起来等于这个value的（2sum稍稍变形）
 
-12. 
+12. rotate array
 
+13. Reverse Word in a String II，
+Validate Binary Search Tree。
+
+14. Word Ladder I变形，要求输出一条最短路径，一不小心理解成Word Ladder II了，写了一白板code还不够。
+
+15. 
 
