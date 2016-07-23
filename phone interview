@@ -65,6 +65,14 @@ time complexity，优化等。
 
 20. https://instant.1point3acres.com/thread/147424
 
-21. 
+21. 两个单词的最短距离 
+
+22. 1. 判断string是不是valid number 2. Find an element in a rotated array 
+
+23. retainedCache, 缓存满之后剔除最小rank的元素，类似于LRU cache，但是要简单一点，也是HashMap + list 搞定 
+
+24. Nested Integer, follow up: reverse nested integer. 
+
+25. 
 
 
