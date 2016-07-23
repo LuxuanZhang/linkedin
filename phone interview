@@ -18,5 +18,19 @@
 
 10. Find the Celebrity(LC)
 
-11. 
+11. 第一题： public boolean canPlaceFlowers(List flowerbed, int numberToPlace) 如果flowerbed当中为true，说明已经栽过花了，
+附近两个不能再栽花。numberToPlace代表想再栽多少花到flowerbed里。让return是不是还能栽那么多谢花进去。 
+
+第二题： public int distance (List words, String wordOne, String wordTwo) 给一个string list，可能存在重复，给两个word，
+让return这两个word在list中的最短距离(index distance)  (CC150 chapter 18)
+我的做法是维护一个hashmap，key是add进来的数，value是出现的次数。每次检查是否存在的时候遍历hashmap，
+然后check当前的key: if (target - currentKey == currentKey && hashmap.get(currentKey) > 1) return true; 
+if (hashmap.containsKey(target - currentkey)) { return true; } // else return false; 因为题目并没有要求返回哪两个数，
+只要求检查是否存在。
+
+第三题： 输入是一个array stream，在任何时候call你的method，给一个input value，
+让返回之前输入过的数字有没有两个加起来等于这个value的（2sum稍稍变形）
+
+12. 
+
 
