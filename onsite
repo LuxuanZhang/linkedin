@@ -81,4 +81,9 @@ r2: K nearest points in 2D
 
 22. Coding + 设计data structure的问题，就是那个 支持Add/Remove/Random remove 那个，最后都要O(1). 
 
-23. 
+23. 1. 给一个string, app.corp.com 要求返回： app1.corp3.com, app2.corp3.com, app1.corp4.com, app2.corp4.com. 组合题变种。
+2。给一个map， 里面是所有文件的dependency, 找出给定一个文件的所有dependency. 图的dfs遍历，注意cycle的处理。没啥难的。
+
+24. 1. print all factors of n(老题)， 2. Is valid BST(讨论了几种方法) 
+
+25. 
