@@ -73,6 +73,46 @@ time complexity，优化等。
 
 24. Nested Integer, follow up: reverse nested integer. 
 
-25. 
+25. 1. Leetcode 50 Pow(x, n) 
+2. (LC 35)给了个排好序的数组, 找第一个比 target 大的数的数组的下标。比如 A = [1, 3, 5, 7], target = 0, 返回 0；target = 1 
+返回 1； target = 2 返回 1 ; target = 6 返回 3； target = 8 也返回 0 
+3. bonus 的问题 : Leetcode 205 Isomorphic Strings
+
+26. find the index of first element greater than given target in sorted integer array. 
+If all elements are no greater than the last element, wrap to position 0.
+E.G sorted array = , target = 5, instead of return 6 = length_of_array, you need to return the first element (position 0). 
+Same case for target = 7 in this arr…
+
+27. https://instant.1point3acres.com/thread/159599
+
+28. reverse nested integer sum 
+two sum III (read heavy, write heavy 两套思路)
+
+29. 比如说 ==和equals的区别；2者分别什么时候用；如果override equals的话，还要override什么其他方法吗？如果equals返回true，
+但是hashcode返回的int不一样，会有什么后果；接着问了一些OS的核心概念，比如说京城和线程的区别，2者的应用场景之类的
+
+30. valid parenthness
+maximum subarray 
+Shortest Word Distance II 
+
+31.让计算点击页面广告能获得的最多收入~~做题思路类似house robberI,II,
+
+32. 一面：全程二分，sqrt, search in rotated array, 最后2sum结尾 
+二面：union/ intersect list, 分别正常和iterate做； binary level， 用bfs和dfs， zigzag收尾
+
+33. Shortest distance with duplicates
+
+34. permutation I II
+
+35. Design and implement a cache which has a capacity. Dump the lowest ranked element if the cache is full. 
+然后就是追问怎么设计distributed cache system。 
+
+36. Get maximum depth of a binary tree
+
+37. sum of nested integer
+reverse version
+
+
+
 
 
