@@ -15,4 +15,29 @@
 5. Find smallest 100 numbers from a very long input. 两种算法，排序和min heap。
 大部分时间花在给小哥解释为什么build heap是O(N) ， heapify是O(logN）
 
-6. 
+6. 1). 知道什么是tree吗？写个tree 的class。然后问Inorder traversal。先递归，然后问time/space complexity。
+完了之后说如果不用递归如何实现。我说用栈，写了code，和以下这个基本一模一样（只是没有pushAllleft独立一个函数，
+但请允许我继续用这个来解释说明），然后国人大哥说你在while loop外和里分别call了“pushAllleft”， 
+这是不简洁的，现在只允许在while loop里调用一次pushAllLeft，当时比较紧张，给出了两种方案，
+不过需要在while loop里做一些特殊判断，他一直不满意，虽然有提示他的思路但是我到最后也没有给出他想要的。
+大概总共20分钟左右说换下一题。 
+2). Single Valid Tree，这个题刚查了一下似乎只有career cup上有，
+之前我没有见过，因为大家（包括给我refer的朋友，还有我自己看面经）都说linkedin有题库重复度特高，
+所以我最后一周也主要是以准备linkedin题库里的题，和system design为主。这个题我是用hash做的。
+我是先列出了三种反例的test cases，然后大概写code（面试官说主要看思路，code不用写得很详细）。
+国人大哥从一开始就似乎比较不喜欢hash的做法，一直觉得这个不work，一直质疑。我第一次写完也没有后续再遍历，
+用自己的test cases检验的时候竟然也没发现对一种特例（有环，而且不联通）不work，后来是白人小哥发现了这个问题，
+但是已经没有时间了不让继续做了就让问问题，但我还是说可以遍历一遍看是否有环（其实更好的说法是看遍历一遍是否能遍历到所有的点），
+国人大哥说即便这个work你这个太麻烦了，用了很多extra space还要很多特殊判断。。。问问题吧
+
+7. Convex hull
+
+8. Is all character in SringB appeared in StringA。
+
+9. 基础题：假设a == b，什么情况下 ++a != ++b，只考虑single thread。在往disk写数据时，一般prefer把small IO整合成big IO然后读写
+，为什么？
+两道算法题，很简单，都是鸡精原题。 Mirror Tree(leetcode),  TopK
+
+
+
+11. 
