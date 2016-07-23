@@ -116,7 +116,17 @@ reverse version
 
 39.  一个文件，有很多行string, 从里面提取所以valid的Ip address.
 
-40. 
+40. 让implement一个multiple-thread producer-consumer. 第二题还有，serialize and deserialize binary tree. 
+
+41. 第一题是让把十进制的数转成二进制的，没什么follow up。第二题是level order print out binary tree。
+follow up就是问如果最后一行print完了不想换行怎么办，然后又问了问时间空间复杂度。最后让我问了两个问题，就结束了，结束时正好50分钟。 
+
+42. implement hash table
+https://instant.1point3acres.com/thread/148239
+
+43. What is write-through cache? What is write-back (copy-back) cache? 
+
+44. 
 
 
 
