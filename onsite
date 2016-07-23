@@ -64,9 +64,14 @@ Lowest Common Ancestor (和leetcode上稍微有点不一样，不提供root，�
 
 18. 一个问题是寻找2个linkedlist的回合点。这个题目其实很简单，主要是需要把test case想全，
 容易遗忘的case是如果linkedlist有环的话，我们可能永远到不了终点。
+两个没有环，不想交 
+两个没有环，相交 
+两个有环，不想交 
+两个有环，相交
+
 第二个算法题目是max points on a line. 这个题目也需要tricky的case，　比如说２点连线是水平的，或者垂直的，或者重合的；
 还有一点就是应该用gcd来化简和表示斜率，不能有double表示。 
 
 19. upside-down a binary tree。这２个都是leetcode　linkedin　tag下面 
 
-20.
+20. 
