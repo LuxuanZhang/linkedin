@@ -74,4 +74,11 @@ Lowest Common Ancestor (和leetcode上稍微有点不一样，不提供root，�
 
 19. upside-down a binary tree。这２个都是leetcode　linkedin　tag下面 
 
-20. 
+20. r1: add/delete/random delete leetcode DNA原题 
+r2: K nearest points in 2D 
+
+21. LC126(hard) 
+
+22. Coding + 设计data structure的问题，就是那个 支持Add/Remove/Random remove 那个，最后都要O(1). 
+
+23. 
