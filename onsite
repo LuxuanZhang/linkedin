@@ -47,10 +47,16 @@
 
 12. 给两个node找公共父节点, 只给两个node,但是node有父亲指针
 
-13. 叶子脱落问题 和 merge interval 并且返回coverage问题(地理有原题)
+13. 叶子脱落问题 给BT，每一轮所有叶子脱落，直到root最后脱落，要求打印所有轮
+不是 level order traversal，两个不同 depth 的leaf 要在同一轮输出
+用个sorted hash map 存高度就行
+差不多，就是从leaf开始是0深度，往上，取左右深度大者加一
+
 
 14. max points in a line
 
-15. LC text justification
+15. LC text justification 可用tokenizer
 
-16. 
+16. LC find min window in S that has every char in T
+
+17. 
