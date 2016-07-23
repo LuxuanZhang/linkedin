@@ -10,4 +10,9 @@
 这一轮对于之前在公司要已经带过新人的求职者要应该属于没有太多难度了。不过要注意把自己项目细节和黑话略去，
 以方便“新人”学习和理解 
 
-4. 
+4. Isomorphic string (leetcode): 
+
+5. Find smallest 100 numbers from a very long input. 两种算法，排序和min heap。
+大部分时间花在给小哥解释为什么build heap是O(N) ， heapify是O(logN）
+
+6. 
