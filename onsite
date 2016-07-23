@@ -38,6 +38,11 @@
 ，为什么？
 两道算法题，很简单，都是鸡精原题。 Mirror Tree(leetcode),  TopK
 
+10. sqrt(x). 改动是输入x是整数，输出要求是float。float啊请注意，二分搜索的range怎么搞，输出精度怎么控制，
+稍微想一下啊同学们。然后怎么测。
 
+11. interval类的问题
+不是跟leetcode一样的题，但也差不多吧，merge，insert都有，也玩不出啥花儿来。
+因为撸的太快了又说什么那每个interval带颜色属性，再要merge怎么整。然后OOD下class怎么写。
 
-11. 
+12. 
