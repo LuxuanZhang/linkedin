@@ -86,4 +86,22 @@ r2: K nearest points in 2D
 
 24. 1. print all factors of n(老题)， 2. Is valid BST(讨论了几种方法) 
 
-25. 
+25. 一中一印 leetcode原题 most points on same line. 但是leetcode的斜率用float直接表示，这里被要求用更好方式表示，
+搞了个 横纵坐标的类，写gcd, 改hashcode, equals等吭哧半天。小中是一脸恨铁不成钢，不停提示我，恨不得上来帮我写，烙印是到处找茬，
+说你说lcd(lz没接受过正规cs教育, gcd说成lcd), 是不是还有led呢，blahblah。
+
+26. http://www.mitbbs.com/article/JobHunting/33053715_3.html
+
+27. https://leetcode.com/problems/search-for-a-range/
+
+28. search in rotated array. follow up: with duplicates
+
+29. Blocking Bounded Queue 实现一个线程安全的put和get，这个之前看面经的时候练习过，不管怎么样写出来了 － － 
+Follow up是 multi-put，这个没写出来，之后的30分钟都是在纠结Mutex和condition variable
+
+30. https://instant.1point3acres.com/thread/154213
+
+31. longest palindromic string
+
+32. 
+
