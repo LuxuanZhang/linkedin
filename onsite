@@ -46,6 +46,7 @@
 因为撸的太快了又说什么那每个interval带颜色属性，再要merge怎么整。然后OOD下class怎么写。
 
 12. 给两个node找公共父节点, 只给两个node,但是node有父亲指针
+Lowest Common Ancestor (和leetcode上稍微有点不一样，不提供root，然后互相比较的两个node有left，right，parent三个属性)
 
 13. 叶子脱落问题 给BT，每一轮所有叶子脱落，直到root最后脱落，要求打印所有轮
 不是 level order traversal，两个不同 depth 的leaf 要在同一轮输出
