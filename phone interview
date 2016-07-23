@@ -38,5 +38,9 @@ Validate Binary Search Tree。
 
 14. Word Ladder I变形，要求输出一条最短路径，一不小心理解成Word Ladder II了，写了一白板code还不够。
 
-15. 
+15. 1. 有n个学生（编号为sid = ）依次走进有n个锁柜的房间（锁的编号为lockid = )，该学生将会打开或锁上lockid可以被sid整除的锁，
+写一个打印所有在第n个学生操作后处于打开的状态的lockid。(完全平方数 builb switcher LC 319)
+2. Shortest Word Distance II，需要处理word1和word2相同的情况，并需要注意该情况下list中只有一个word1的case
+
+
 
