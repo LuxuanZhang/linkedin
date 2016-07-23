@@ -45,4 +45,10 @@
 不是跟leetcode一样的题，但也差不多吧，merge，insert都有，也玩不出啥花儿来。
 因为撸的太快了又说什么那每个interval带颜色属性，再要merge怎么整。然后OOD下class怎么写。
 
-12. 
+12. 给两个node找公共父节点, 只给两个node,但是node有父亲指针
+
+13. 叶子脱落问题 和 merge interval 并且返回coverage问题(地理有原题)
+
+14. max points in a line
+
+15. 
