@@ -2,9 +2,7 @@
 
 2. linkedin有很多server在做很多不同的事情，设计一个系统，监测24小时之内top 500的exceptions
 
-3. project most challenge
-
-4. canlendar design
+4. canlendar design 要求1000用户，并可能拓展到100M+
 
 5. http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=175538&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26sortid%3D311
 
