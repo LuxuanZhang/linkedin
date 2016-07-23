@@ -1,1 +1,11 @@
-1.
+1. nested array, 例如[1,2,[3,4,[5,],7],8,9]，要求一次性输出，直接iterator方法，本来还想着用generator，后来克制住没有作。
+
+2. leetcode 20 Valid Parentheses，中间有个follow up，我一开始的程序是（、【、{逐一判断，大哥说我要是有500个不同的parentheses的表达怎么办？直接dictionary（hashmap）预存啊！
+
+3. given a tree structrue {'s1':'()','s2:{s3:'{}'}','s4':''}, 判断这个given tree是否是valid tree（即里面的元素都是valid parentheses）
+
+4. LC 244
+
+5. Nearest p points of a given center. (最大堆。) 
+
+6. 
